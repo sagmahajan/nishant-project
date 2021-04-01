@@ -1,4 +1,6 @@
 # nishant-project
 test project
 
-I am doing changes
+Now I am understanding git much better.
+
+I think it's easy
